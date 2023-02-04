@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently a student at Masai School<br>🧑‍🤝‍🧑Seeking collaboration in software development<br>💛Looking to develop a tech website with assistance<br>🌱Proficient in Node.js and learning AWS<br>💭Specialize in Full stack development<br>⚡Fun Fact: Often described as both lazy and smart
+🔭Currently a student at Masai School<br>🧑‍🤝‍🧑Seeking collaboration in software development<br>💛Looking to develop a tech website with assistance<br>🌱Proficient in Node.js and learning AWS<br>💭Specialize in Full stack development<br>⚡Fun Fact: Often described as both lazy and smart <br>🗄️Portfolio: https://loquacious-dolphin-f59f26.netlify.app/
 
 
 ## 🌐 Socials:
