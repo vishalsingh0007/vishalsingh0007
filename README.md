@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭Currently a student at Masai School<br>🧑‍🤝‍🧑Seeking collaboration in software development<br>💛Looking to develop a tech website with assistance<br>🌱Proficient in Node.js and learning AWS<br>💭Specialize in Full stack development<br>⚡Fun Fact: Often described as both lazy and smart <br><a href="https://vishalsingh0007.github.io/" target="_blank">🗄️My Portfolio</a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vishalsingh0007/count.svg" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-singh-4bb733247/)
@@ -19,12 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishalsingh0007&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=vishalsingh0007&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href=#><img src="contributions.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vishalsingh0007/count.svg" />
-</p>
