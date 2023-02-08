@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vishalsingh0007/count.svg" />
+  <img src="https://profile-counter.glitch.me/nrupuld/count.svg" />
 </p>
 
 ## 🌐 Socials:
