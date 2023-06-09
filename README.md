@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🤝‍🧑Seeking collaboration in software development<br>💛Looking to develop a tech website with assistance<br>🌱Proficient in Backend and Frontend and learning AWS<br>💭Specialize in Full stack development<br>⚡Fun Fact: Often described as both lazy and smart <br><a href="https://cute-shortbread-b6beca.netlify.app/" target="_blank">🗄️My Portfolio</a>
+🧑‍🤝‍🧑Seeking collaboration in software development<br>💛Looking to develop a tech website with assistance<br>🌱Proficient in Backend and Frontend and learning AWS<br>💭Specialize in Full stack development<br>⚡Fun Fact: Often described as both lazy and smart
 
 <p align="center"> 
   Visitor count<br>
